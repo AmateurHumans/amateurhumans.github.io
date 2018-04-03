@@ -19,3 +19,7 @@ Live site at http://amateurhumans.com
 7. Create home and about pages
 
 8. Next steps?!? More info at https://hackcabin.com/post/initial-commit/ and https://github.com/comfusion/after-dark
+
+## Inspiration
+
+http://archaeogeek.com and https://gitlab.com/archaeogeek/archaoegeek.hugo/tree/master
