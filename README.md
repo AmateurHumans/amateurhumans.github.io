@@ -1,9 +1,8 @@
-# amateurhumans.github.io
-Amateur Humans web site
+# Amateur Humans web site
 
 Live site at http://amateurhumans.com
 
-Amateur web mastery
+## Amateur web mastery in 4 easy steps
 
 1. Created this repo and got custom domain name working with basic Hello World HTML page
 
